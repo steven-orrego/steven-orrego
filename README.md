@@ -4,7 +4,7 @@
 
 **Desarrollador de software** — backend, automatización y aplicaciones web
 
-[![GitHub](https://img.shields.io/badge/GitHub-steven-orrego-181717?style=for-the-badge&logo=github)](https://github.com/lJosefull)
+[![GitHub](https://img.shields.io/badge/GitHub-steven-orrego-181717?style=for-the-badge&logo=github)](https://github.com/steven-orrego)
 [![Seguidores](https://img.shields.io/github/followers/steven-orrego?style=for-the-badge&label=Seguidores&color=1f6feb)](https://github.com/steven-orrego?tab=followers)
 
 </div>
@@ -63,7 +63,7 @@
 
 ## 📫 Contacto
 
-Sígueme en [GitHub](https://github.com/lJosefull) para ver en qué estoy trabajando.
+Sígueme en [GitHub](https://github.com/steven-orrego) para ver en qué estoy trabajando.
 
 <div align="center">
 
